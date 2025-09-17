@@ -1,0 +1,6 @@
+@KosDrive_HostAddress = http://localhost:5153
+
+GET {{KosDrive_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
